@@ -1,8 +1,12 @@
-            # gn-data-vault
+
+# gn-data-vault
+
 ### TODO
+
 - [x] genofile reading
+
 - [] genofile parsing to obtain strains
+
 - [] obtain strain values for datasets with samples from genofiles
+
 - []  lmdb dump
-- [x] add new test content
-- [] test empty line removal
