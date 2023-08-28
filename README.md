@@ -1,5 +1,4 @@
-
-            # gn-data-vault
+# gn-data-vault
 
 ### TODO
 
