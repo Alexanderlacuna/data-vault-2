@@ -1,1 +1,11 @@
-ba247203d5b67893219f8eb4ad3da5122c22e172
+# gn-data-vault
+
+### TODO
+
+- [x] genofile reading
+
+- [] genofile parsing to obtain strains
+
+- [] obtain strain values for datasets with samples from genofiles
+
+- []  lmdb dump
