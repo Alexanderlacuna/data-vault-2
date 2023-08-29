@@ -12,4 +12,3 @@
 
 - []  lmdb dump
 
-- new test url
