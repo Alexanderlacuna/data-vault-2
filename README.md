@@ -1,10 +1,4 @@
- ``` python
-def fibonacci():
-  if n==1:
-        return 1
-  return fibonacci(n-2)+ fibonacci(n-1)
-```
-        
+
             
             
 ##  An h1 header
@@ -169,6 +163,7 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
 
 
 
