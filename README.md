@@ -1,6 +1,7 @@
 
             
             
+            
 ##  An h1 header
 ============
 
@@ -70,6 +71,13 @@ for i in range(10):
 ~~~
 
 
+~~~python
+
+def fibonacci():
+   return 1
+   if n==2:
+      return fibonacci(n-1) + fibonacci(n-2)
+~~~
 
 ### An h3 header ###
 
@@ -163,6 +171,7 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+
 
 
 
